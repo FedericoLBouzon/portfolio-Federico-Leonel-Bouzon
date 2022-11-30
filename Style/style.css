@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: #9EA3B0;
+}
+h2{
+    text-align: center;
+}
+.navbar{
+    background-color: #8018E1;
+  
+  }
+.navbar-brand{
+    color: #070707;
+    margin-left: 45%;
+}
+.columnas{
+    margin-top: 0.5%;
+    margin-left: 7%;
+    width: 70%;
+}
+#h2{
+    color: red;
+}
+#columna1, #columna2, #columna3{
+    border-color: grey !important;
+    border-width: 1px;
+    border-radius: 3%;
+    border: solid;
+    padding: 10px;
+    margin-left: 5%;
+
+}
+#barra1{
+    background-color: #070707;
+}
+.mercadoliebre{
+    width: 50%;
+    margin-left: 23%;
+}
